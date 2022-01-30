@@ -1,0 +1,17 @@
+/* Theme */
+
+main {
+    background-image: url(../../images/nebula2.webp);
+    background-color: #000B;
+    background-size: cover;
+    background-blend-mode: darken;
+	color: #FAFAFA;
+}
+
+.icons-social a {
+	color: #FAFAFA;
+}
+
+.icons-social a svg path{
+	fill: #FAFAFA;
+}
